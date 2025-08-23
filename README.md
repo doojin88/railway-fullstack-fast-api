@@ -11,7 +11,7 @@ A production-ready full-stack template based on the [FastAPI Full-Stack Template
 
 ## Quick Deploy
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/fullstack-fast-api?referralCode=hbN2rY&utm_medium=integration&utm_source=template&utm_campaign=generic)
 
 ## Project Structure
 
