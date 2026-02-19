@@ -20,7 +20,7 @@ ENV UV_LINK_MODE=copy
 
 # Copy backend files from cloned repo and install dependencies
 RUN cp /tmp/template/backend/pyproject.toml ./ && \
-    cp /tmp/template/backend/uv.lock ./ && \
+    cp /tmp/template/uv.lock ./ && \
     uv sync --frozen --no-install-project
 
 ENV PYTHONPATH=/app
